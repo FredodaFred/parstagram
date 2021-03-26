@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='parseStory.gif'/>
+<img src='parseStory2.gif'/>
 
 
 Time spent: 6 hours spent in total
